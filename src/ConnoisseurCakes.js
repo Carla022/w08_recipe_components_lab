@@ -9,7 +9,9 @@ const ConnoiseurCakes = () => {
         <div className='Title'>
             <h1>ConnoiseurCakes</h1>
             <h3>Welcome to the Bakery!</h3>
+
         </div>
+
         
       
 
@@ -24,7 +26,7 @@ const ConnoiseurCakes = () => {
 
 
 
-
+    }
 
 
 
@@ -72,7 +74,7 @@ const ConnoiseurCakes = () => {
         
 
 
-}
+
 
 
 export default ConnoiseurCakes;
